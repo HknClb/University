@@ -1,0 +1,96 @@
+[System]
+Name='main'
+Type='mamdani'
+Version=2.0
+NumInputs=3
+NumOutputs=1
+NumRules=48
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='ortam_sesi'
+Range=[0 90]
+NumMFs=4
+MF1='cd':'trimf',[0 0 20]
+MF2='d':'trimf',[15 30 45]
+MF3='y':'trimf',[70 90 90]
+MF4='o':'trimf',[40 60 80]
+
+[Input2]
+Name='ortam_yogunlugu'
+Range=[0 100]
+NumMFs=4
+MF1='az':'trimf',[0 0 40]
+MF2='orta':'trimf',[30 45 60]
+MF3='dolu':'trimf',[80 100 100]
+MF4='yogun':'trimf',[55 70 85]
+
+[Input3]
+Name='ortam_buyuklugu'
+Range=[50 350]
+NumMFs=3
+MF1='kucuk':'trimf',[50 50 200]
+MF2='orta':'trimf',[100 200 300]
+MF3='buyuk':'trimf',[275 350 350]
+
+[Output1]
+Name='ses_seviyesi'
+Range=[40 140]
+NumMFs=3
+MF1='orta':'trimf',[40 40 80]
+MF2='yuksek':'trimf',[60 90 120]
+MF3='cok_yuksek':'trimf',[100 140 140]
+
+[Rules]
+1 1 1, 1 (1) : 1
+1 1 2, 2 (1) : 1
+1 1 3, 3 (1) : 1
+1 2 1, 2 (1) : 1
+1 3 1, 3 (1) : 1
+1 4 1, 2 (1) : 1
+2 1 1, 1 (1) : 1
+3 1 1, 3 (1) : 1
+4 1 1, 2 (1) : 1
+2 1 2, 1 (1) : 1
+2 1 3, 2 (1) : 1
+2 2 1, 1 (1) : 1
+2 2 2, 1 (1) : 1
+2 2 3, 2 (1) : 1
+2 4 1, 2 (1) : 1
+2 4 2, 3 (1) : 1
+2 4 3, 3 (1) : 1
+2 3 1, 3 (1) : 1
+2 3 2, 3 (1) : 1
+2 3 3, 3 (1) : 1
+3 1 2, 2 (1) : 1
+3 1 3, 3 (1) : 1
+3 2 1, 2 (1) : 1
+3 2 2, 3 (1) : 1
+3 2 3, 3 (1) : 1
+3 4 1, 2 (1) : 1
+3 4 2, 3 (1) : 1
+3 4 3, 3 (1) : 1
+3 3 1, 3 (1) : 1
+3 3 2, 3 (1) : 1
+3 3 3, 3 (1) : 1
+4 1 2, 1 (1) : 1
+4 1 3, 2 (1) : 1
+4 2 1, 1 (1) : 1
+4 2 2, 2 (1) : 1
+4 2 3, 3 (1) : 1
+4 4 1, 2 (1) : 1
+4 4 2, 3 (1) : 1
+4 4 3, 3 (1) : 1
+4 3 1, 3 (1) : 1
+4 3 2, 3 (1) : 1
+4 3 3, 3 (1) : 1
+1 2 2, 1 (1) : 1
+1 2 3, 2 (1) : 1
+1 3 2, 3 (1) : 1
+1 3 3, 3 (1) : 1
+1 4 2, 2 (1) : 1
+1 4 3, 3 (1) : 1

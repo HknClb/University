@@ -1,0 +1,143 @@
+﻿<!--
+    C# içerisinde HTML olarak yazmak için "et": şeklinde kullanılır.
+
+-->
+@model List<Hafta4.Entities.News>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <title></title>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+</head>
+<body>
+
+    <!--#region CSS Codes-->
+    <style>
+        .oddNumber {
+            border: groove;
+            border-width: 3px;
+            border-color: black;
+            font-size: 12pt;
+            font-family: 'Times New Roman';
+            color: blue;
+        }
+
+        .evenNumber {
+            border: groove;
+            border-width: 3px;
+            border-color: black;
+            font-size: 12pt;
+            font-family: 'Times New Roman';
+            color: red;
+        }
+
+        .newsHeader{
+            border: double;
+            border-width: 6px;
+            border-color: red;
+            background-color: white;
+            font-size: 14pt;
+            font-family:'Times New Roman';
+            color: black;
+            text-align: center;
+        }
+
+        .newsContent {
+            border: groove;
+            border-width: 4px;
+            border-color: gray;
+            background-color: navajowhite;
+            font-size: 12pt;
+            font-family: 'Times New Roman';
+            color: darkred;
+            text-align: center;
+        }
+    </style>
+    <!--#endregion-->
+    <!--#region Generating a Random Numbers Code-->
+    @{
+        var generated = new List<int>();
+        var selectedClassName = string.Empty;
+        bool isGenerated;
+        Random rnd = new Random();
+        int random;
+        int counter = 0;
+        for (int i = 0; i < 100; i++)
+        {
+            isGenerated = false;
+            random = rnd.Next(0, 10000);
+            foreach (var item in generated)
+            {
+                if (item == random)
+                {
+                    isGenerated = true;
+                    break;
+                }
+            }
+            if (!isGenerated)
+                generated.Add(random);
+            else
+                i--;
+        }
+    }
+    <!--#endregion-->
+    <!--#region Set Generated Numbers Class Name-->
+    <table>
+        @while (counter < generated.Count)
+        {
+            <tr>
+                @for (int i = 0; i < generated.Count * 0.10; i++)
+                {
+                    selectedClassName = generated[counter] % 2 == 0 ? "evenNumber" : "oddNumber";
+                    <td class="@selectedClassName">@generated[counter++]</td>
+                }
+            </tr>
+        }
+    </table>
+    <!--#endregion-->
+    <!--#region Use HTML Code From C# Codes-->
+    @{counter = 0;}
+    <ul>
+        <li>
+            @foreach (var item in generated)
+            {
+                if (counter % 4 == 0 && counter != 0)
+                {
+                @:</li><li>
+                }
+                @item<br />
+                counter++;
+            }
+        </li>
+    </ul>
+    <!--#endregion-->
+    <!--#region Sample Of Comment Line-->
+    @*This is a comment line*@
+    <!--#endregion-->
+
+
+    <table>
+        <tr class="newsHeader">
+            <th>News Number</th>
+            <th>News Title</th>
+            <th>Approve Status</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr class="newsContent">
+                <td>@item.ID</td>
+                <td>@item.Title</td>
+                @if (item.Approve)
+                {
+                    <td>Approved</td>
+                }
+                else
+                {
+                    <td>Not Approved</td>
+                }
+            </tr>
+        }
+    </table>
+
+</body>
+</html>

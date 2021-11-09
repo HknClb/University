@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E8D7E2CA-2AF1-4458-BFF2-1ADFFF77E824}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_181312025</RootNamespace>
+    <AssemblyName>181312025</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddNewAuthorizedPersonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewAuthorizedPersonForm.Designer.cs">
+      <DependentUpon>AddNewAuthorizedPersonForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewPeronForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewPeronForm.Designer.cs">
+      <DependentUpon>AddNewPeronForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewUserForm.Designer.cs">
+      <DependentUpon>AddNewUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPanel.Designer.cs">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BusesForm.Designer.cs">
+      <DependentUpon>BusesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompaniesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompaniesForm.Designer.cs">
+      <DependentUpon>CompaniesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompanyAuthorizedPersonsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompanyAuthorizedPersonsForm.Designer.cs">
+      <DependentUpon>CompanyAuthorizedPersonsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreatedClass\Bus.cs" />
+    <Compile Include="CreatedClass\Company.cs" />
+    <Compile Include="CreatedClass\CompanyAuthorizedPerson.cs" />
+    <Compile Include="CreatedClass\ContactInformation.cs" />
+    <Compile Include="CreatedClass\Driver.cs" />
+    <Compile Include="CreatedClass\Logs.cs" />
+    <Compile Include="CreatedClass\PeronRentel.cs" />
+    <Compile Include="CreatedClass\SqlProcessAdapter.cs" />
+    <Compile Include="CreatedClass\TextBoxHintAndOnlyNumber.cs" />
+    <Compile Include="DriversForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriversForm.Designer.cs">
+      <DependentUpon>DriversForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogsForm.Designer.cs">
+      <DependentUpon>LogsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreatedClass\Peron.cs" />
+    <Compile Include="OldPeronRentelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OldPeronRentelForm.Designer.cs">
+      <DependentUpon>OldPeronRentelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PeronRentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PeronRentForm.Designer.cs">
+      <DependentUpon>PeronRentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CreatedClass\TextBoxHintEvent.cs" />
+    <Compile Include="CreatedClass\TextBoxInputController.cs" />
+    <Compile Include="CreatedClass\User.cs" />
+    <Compile Include="TerminalPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TerminalPanel.Designer.cs">
+      <DependentUpon>TerminalPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateAuthorizedPersonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateAuthorizedPersonForm.Designer.cs">
+      <DependentUpon>UpdateAuthorizedPersonForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateCompanyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateCompanyForm.Designer.cs">
+      <DependentUpon>UpdateCompanyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePeronForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePeronForm.Designer.cs">
+      <DependentUpon>UpdatePeronForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateUserForm.Designer.cs">
+      <DependentUpon>UpdateUserForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddNewAuthorizedPersonForm.resx">
+      <DependentUpon>AddNewAuthorizedPersonForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewPeronForm.resx">
+      <DependentUpon>AddNewPeronForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewUserForm.resx">
+      <DependentUpon>AddNewUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPanel.resx">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BusesForm.resx">
+      <DependentUpon>BusesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompaniesForm.resx">
+      <DependentUpon>CompaniesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompanyAuthorizedPersonsForm.resx">
+      <DependentUpon>CompanyAuthorizedPersonsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriversForm.resx">
+      <DependentUpon>DriversForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogsForm.resx">
+      <DependentUpon>LogsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OldPeronRentelForm.resx">
+      <DependentUpon>OldPeronRentelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PeronRentForm.resx">
+      <DependentUpon>PeronRentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TerminalPanel.resx">
+      <DependentUpon>TerminalPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateAuthorizedPersonForm.resx">
+      <DependentUpon>UpdateAuthorizedPersonForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateCompanyForm.resx">
+      <DependentUpon>UpdateCompanyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePeronForm.resx">
+      <DependentUpon>UpdatePeronForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateUserForm.resx">
+      <DependentUpon>UpdateUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 ve x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 </ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

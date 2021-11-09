@@ -1,0 +1,85 @@
+﻿@model Hafta4._1.Models.EntityViewModel
+@{ 
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <title>İ.T.P.G. Hafta 4.1</title>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+</head>
+<body>
+    <div>
+        <span>@Model.EntityTypeName</span>
+    </div>
+
+    <!--#region CSS Codes-->
+    <style>
+        .newsHeader {
+            border: double;
+            border-width: 6px;
+            border-color: red;
+            background-color: white;
+            font-size: 14pt;
+            font-family: 'Times New Roman';
+            color: black;
+            text-align: center;
+        }
+
+        .newsContent {
+            border: groove;
+            border-width: 4px;
+            border-color: gray;
+            background-color: navajowhite;
+            font-size: 12pt;
+            font-family: 'Times New Roman';
+            color: darkred;
+            text-align: center;
+        }
+    </style>
+    <!--#endregion-->
+
+    <table>
+        <tr class="newsHeader">
+            <th>News Number</th>
+            <th>News Title</th>
+            <th>Approve Status</th>
+        </tr>
+        @foreach (var item in Model.news)
+        {
+            <tr class="newsContent">
+                <td>@item.ID</td>
+                <td>@item.Title</td>
+                @if (item.Approve)
+                {
+                    <td>Approved</td>
+                }
+                else
+                {
+                    <td>Not Approved</td>
+                }
+            </tr>
+        }
+    </table>
+
+    <table>
+        <tr class="newsHeader">
+            <th>Video Number</th>
+            <th>Video Title</th>
+            <th>Video Tag</th>
+        </tr>
+        @foreach (var item in Model.video)
+        {
+            <tr class="newsContent">
+                @if (item.Approve)
+                {
+                    <td>@item.ID</td>
+                    <td>@item.Title</td>
+                    <td>@item.Tag</td>
+                }
+            </tr>
+        }
+    </table>
+
+</body>
+</html>

@@ -1,0 +1,77 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model _181312025_Hakan.ÇELEBİ.Models.EntityViewModel;
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <title></title>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <link href="~/commonCss/reset.css" rel="stylesheet" />
+    <link href="~/commonCss/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    @{
+        var sortedHeadPhones = new List<int>();
+        var tempYearList = new List<int>();
+        int counter = 0; int tempID;
+        int tempYear;
+        foreach (var item in Model.headPhones)
+        {
+            sortedHeadPhones.Add(item.ID);
+            tempYearList.Add(Convert.ToInt32(item.ReleaseYear));
+        }
+        for (int i = 0; i < Model.headPhones.Count - 1; i++)
+        {
+            for (int j = i + 1; j < Model.headPhones.Count; j++)
+            {
+                if (tempYearList[i] < tempYearList[j])
+                {
+                    tempID = sortedHeadPhones[i];
+                    tempYear = tempYearList[i];
+                    sortedHeadPhones[i] = sortedHeadPhones[j];
+                    tempYearList[i] = tempYearList[j];
+                    sortedHeadPhones[j] = tempID;
+                    tempYearList[j] = tempYear;
+                }
+            }
+        }
+    }
+    <p class="entityTypeName">@Model.EntityTypeName</p>
+    <table class="headPhoneTable">
+        <tr class="tableHeader">
+            <th>Marka</th>
+            <th>Model</th>
+            <th>Renk</th>
+            <th>BlueTooth</th>
+            <th>Fiyat</th>
+            <th>Çıkış Yılı</th>
+        </tr>
+        @while (counter < sortedHeadPhones.Count)
+        {
+            @foreach (var item in Model.headPhones)
+            {
+                if (counter < sortedHeadPhones.Count && item.ID == sortedHeadPhones[counter])
+                {
+                    counter++;
+                    <tr class="productRow">
+                        <td>@item.TradeMark</td>
+                        <td>@item.ModelName</td>
+                        <td>@item.Color</td>
+                        @if (item.BlueTooth)
+                        {
+                            <td>Var</td>
+                        }
+                        else
+                        {
+                            <td>Yok</td>
+                        }
+                        <td>@item.Price TL</td>
+                        <td>@item.ReleaseYear</td>
+                    </tr>
+                }
+            }
+        }
+    </table>
+</body>
+</html>

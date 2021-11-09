@@ -1,0 +1,146 @@
+﻿header {
+    max-width: 100%;
+    min-width: 1024px;
+    height: 160px;
+    margin: auto;
+    background-color: #808080;
+}
+
+.logo {
+    width: 160px;
+    height: 120px;
+    padding-top: 20px; /*İç boşluk bırakma.*/
+    float: left; /*Sola dayama.*/
+}
+
+.logo img {
+    width: 160px;
+    height: 120px;
+}
+
+header h1 {
+    font-size: 16pt;
+    font-family: 'Times New Roman';
+    color: #02478a;
+    float: left;
+    padding-top: 70px;
+}
+
+.teacher {
+    font-size: 12pt;
+    font-family: 'Times New Roman';
+    color: #800000;
+}
+
+header ul {
+    float: right;
+    padding-top: 118px;
+}
+
+header ul li {
+    font-size: 10pt;
+    font-family: 'Times New Roman';
+    color: white;
+    text-align: center;
+}
+
+.shortingOptions {
+    width: 1024px;
+    height: 30px;
+    margin: auto;
+}
+
+.shortingOptions a {
+    cursor: pointer;
+    float: left;
+    margin-left: 20px;
+    background-color: white;
+    font-size: 14pt;
+    font-family: 'Times New Roman';
+    color: darkred;
+    text-decoration: none;
+    border: groove;
+    border-width: 2px;
+    border-color: #808080;
+}
+
+.shortingOptions a:hover {
+    cursor: pointer;
+    float: left;
+    margin-left: 20px;
+    background-color: darkred;
+    font-size: 14pt;
+    font-family: 'Times New Roman';
+    color: white;
+    text-decoration: none;
+    border: groove;
+    border-width: 2px;
+    border-color: #808080;
+}
+
+footer {
+    max-width: 100%;
+    min-width: 1024px;
+    height: 75px;
+    margin: auto;
+    background-color: #02478a;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+    font-size: 16pt;
+    font-family: 'Times New Roman';
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 45%;
+}
+
+footer a:hover{
+    border: groove;
+    border-width: 3px;
+    border-color: red;
+    text-decoration: none;
+    color: white;
+    font-size: 16pt;
+    font-family: 'Times New Roman';
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 45%;
+}
+
+.entityTypeName {
+    color: red;
+    font-size: 18pt;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+.headPhoneTable{
+    margin: auto;
+    border: groove;
+    border-width: 5px;
+    border-color: aqua;
+}
+
+.tableHeader th {
+    border: groove;
+    border-width: 4px;
+    border-color: gray;
+    background-color: white;
+    color: indianred;
+    font-size: 16pt;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+.productRow td {
+    border: groove;
+    border-width: 2px;
+    border-color: black;
+    background-color: indianred;
+    color: white;
+    font-size: 12pt;
+    font-family: 'Times New Roman';
+    text-align: center;
+}

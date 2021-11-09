@@ -1,0 +1,47 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model _181312025_Hakan.ÇELEBİ.Models.EntityViewModel;
+<!DOCTYPE html>
+<!--HTML 5 belge bildirimi.-->
+<html lang="tr">
+<!--Sayfa içerisinde kullanılan dili Türkçe olarak ayarladık.-->
+<head>
+    <title>İnternet Tabanlı Program Geliştirme Vize</title>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" /> <!--Belge türü ve karakter kümesi bildirimi.-->
+    <link href="~/commonCss/reset.css" rel="stylesheet" />
+    <link href="~/commonCss/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <!--Anasayfa da varsayılan olarak ürün ID değerine göre sıralama yapıyorum.-->
+    <p class="entityTypeName">@Model.EntityTypeName</p>
+    <table class="headPhoneTable">
+        <tr class="tableHeader">
+            <th>Marka</th>
+            <th>Model</th>
+            <th>Renk</th>
+            <th>BlueTooth</th>
+            <th>Fiyat</th>
+            <th>Çıkış Yılı</th>
+        </tr>
+        @foreach (var item in Model.headPhones)
+        {
+            <tr class="productRow">
+                <td>@item.TradeMark</td>
+                <td>@item.ModelName</td>
+                <td>@item.Color</td>
+                @if (item.BlueTooth)
+                {
+                    <td>Var</td>
+                }
+                else
+                {
+                    <td>Yok</td>
+                }
+                <td>@item.Price TL</td>
+                <td>@item.ReleaseYear</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

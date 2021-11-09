@@ -1,0 +1,10 @@
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_soru_3\bin\Debug\vize_soru_3.exe.config
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_soru_3\bin\Debug\vize_soru_3.exe
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_soru_3\bin\Debug\vize_soru_3.pdb
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_soru_3\obj\Debug\vize_soru_3.csprojAssemblyReference.cache
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_soru_3\obj\Debug\vize_soru_3.Form1.resources
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_soru_3\obj\Debug\vize_soru_3.Properties.Resources.resources
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_soru_3\obj\Debug\vize_soru_3.csproj.GenerateResource.cache
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_soru_3\obj\Debug\vize_soru_3.csproj.CoreCompileInputs.cache
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_soru_3\obj\Debug\vize_soru_3.exe
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_soru_3\obj\Debug\vize_soru_3.pdb

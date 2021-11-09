@@ -1,0 +1,37 @@
+C:\Users\Hakan ÇELEBİ7\Desktop\C# Dersleri\181312025\obj\Debug\181312025.csprojAssemblyReference.cache
+C:\Users\Hakan ÇELEBİ7\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.mainForm.resources
+C:\Users\Hakan ÇELEBİ7\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.Properties.Resources.resources
+C:\Users\Hakan ÇELEBİ7\Desktop\C# Dersleri\181312025\obj\Debug\181312025.csproj.GenerateResource.cache
+C:\Users\Hakan ÇELEBİ7\Desktop\C# Dersleri\181312025\obj\Debug\181312025.csproj.CoreCompileInputs.cache
+C:\Users\Hakan ÇELEBİ7\Desktop\C# Dersleri\181312025\bin\Debug\181312025.exe.config
+C:\Users\Hakan ÇELEBİ7\Desktop\C# Dersleri\181312025\bin\Debug\181312025.exe
+C:\Users\Hakan ÇELEBİ7\Desktop\C# Dersleri\181312025\bin\Debug\181312025.pdb
+C:\Users\Hakan ÇELEBİ7\Desktop\C# Dersleri\181312025\obj\Debug\181312025.exe
+C:\Users\Hakan ÇELEBİ7\Desktop\C# Dersleri\181312025\obj\Debug\181312025.pdb
+C:\Users\Hakan ÇELEBİ7\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.AdminPanel.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\bin\Debug\181312025.exe.config
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\bin\Debug\181312025.exe
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\bin\Debug\181312025.pdb
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\181312025.csprojAssemblyReference.cache
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.AdminPanel.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.MainForm.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.Properties.Resources.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\181312025.csproj.GenerateResource.cache
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\181312025.csproj.CoreCompileInputs.cache
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\181312025.exe
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\181312025.pdb
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.AddNewUserForm.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.UpdateUserForm.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.LogsForm.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.TerminalPanel.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.AddNewPeronForm.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.UpdatePeronForm.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.CompaniesForm.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.UpdateCompanyForm.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.AddNewAuthorizedPersonForm.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.CompanyAuthorizedPersonsForm.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.UpdateAuthorizedPersonForm.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.BusesForm.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.DriversForm.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.PeronRentForm.resources
+C:\Users\hkncl\Desktop\C# Dersleri\181312025\obj\Debug\_181312025.OldPeronRentelForm.resources

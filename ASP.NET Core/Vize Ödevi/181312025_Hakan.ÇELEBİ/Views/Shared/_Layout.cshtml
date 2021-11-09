@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <!--#region CSS Bağlantıları-->
+    <link href="~/commonCss/reset.css" rel="stylesheet" /> <!--Varsayılan HTML elementi özelliklerini sıfırlamak için kullanıyorum.-->
+    <link href="~/commonCss/StyleSheet.css" rel="stylesheet" />
+    <!--#endregion-->
+</head>
+<body>
+    <header>
+        <div class="logo"><img src="~/image/kmuLogo.png" alt="Kmu Logo" /></div>
+        <h1>İnternet Tabanlı Program Geliştirme</h1>
+        <p class="teacher">DR. ÖĞR. ÜYESİ UĞUR ERKAN</p>
+        <ul>
+            <li>
+                <p>Coded By "181312025-Hakan ÇELEBİ"</p>
+            </li>
+            <li>
+                <p>Vize Ödevi</p>
+            </li>
+        </ul>
+    </header>
+    <div class="shortingOptions">
+        <a role="button" href="/Home/Index">Varsayılana Göre</a>
+        <a role="button" href="/Home/priceLowToHigh">Fiyata Göre Artan</a>
+        <a role="button" href="/Home/priceHighToLow">Fiyata Göre Azalan</a>
+        <a role="button" href="/Home/dateNewToOld">Çıkış Tarihine Göre En Yeni</a>
+        <a role="button" href="/Home/dateOldToNew">Çıkış Tarihine Göre En Eski</a>
+    </div>
+    <div class="content">
+        @RenderBody()
+    </div>
+    <footer><a href="/Home/CommentPage">Ödevi Yapma Aşamalarım</a></footer>
+</body>
+</html>

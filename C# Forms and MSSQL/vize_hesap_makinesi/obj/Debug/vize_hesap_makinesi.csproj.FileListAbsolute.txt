@@ -1,0 +1,10 @@
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_hesap_makinesi\bin\Debug\vize_hesap_makinesi.exe.config
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_hesap_makinesi\bin\Debug\vize_hesap_makinesi.exe
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_hesap_makinesi\bin\Debug\vize_hesap_makinesi.pdb
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_hesap_makinesi\obj\Debug\vize_hesap_makinesi.csprojAssemblyReference.cache
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_hesap_makinesi\obj\Debug\vize_hesap_makinesi.Form1.resources
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_hesap_makinesi\obj\Debug\vize_hesap_makinesi.Properties.Resources.resources
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_hesap_makinesi\obj\Debug\vize_hesap_makinesi.csproj.GenerateResource.cache
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_hesap_makinesi\obj\Debug\vize_hesap_makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_hesap_makinesi\obj\Debug\vize_hesap_makinesi.exe
+C:\Users\Hakan ÇELEBİ7\Desktop\Güz Yarıyılı 5.Dönem Dersler\Görsel Programlama Dilleri\vize_hesap_makinesi\obj\Debug\vize_hesap_makinesi.pdb

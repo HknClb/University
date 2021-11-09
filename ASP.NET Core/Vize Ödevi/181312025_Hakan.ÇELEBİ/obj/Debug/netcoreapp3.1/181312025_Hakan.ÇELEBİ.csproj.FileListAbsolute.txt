@@ -1,0 +1,74 @@
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.exe
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.deps.json
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.runtimeconfig.json
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.runtimeconfig.dev.json
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.dll
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.pdb
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.Views.dll
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.Views.pdb
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.AssemblyInfoInputs.cache
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.AssemblyInfo.cs
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.csproj.CoreCompileInputs.cache
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.RazorAssemblyInfo.cache
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.RazorAssemblyInfo.cs
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.TagHelpers.input.cache
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.TagHelpers.output.cache
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.RazorCoreGenerate.cache
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.RazorTargetAssemblyInfo.cache
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.RazorTargetAssemblyInfo.cs
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.Views.pdb
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\staticwebassets\181312025_Hakan.ÇELEBİ.StaticWebAssets.Manifest.cache
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\staticwebassets\181312025_Hakan.ÇELEBİ.StaticWebAssets.xml
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.dll
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.pdb
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.genruntimeconfig.cache
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.csproj.CopyComplete
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.csprojAssemblyReference.cache
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\Razor\Views\Home\dateNewToOld.cshtml.g.cs
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\Razor\Views\Home\dateOldToNew.cshtml.g.cs
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\Razor\Views\Home\priceHighToLow.cshtml.g.cs
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\Razor\Views\Home\priceLowToHigh.cshtml.g.cs
+C:\Users\Hakan ÇELEBİ7\Source\Repos\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\Razor\Views\Home\CommentPage.cshtml.g.cs
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.exe
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.deps.json
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.runtimeconfig.json
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.runtimeconfig.dev.json
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.dll
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.pdb
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.Views.dll
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\bin\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.Views.pdb
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.csproj.AssemblyReference.cache
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.AssemblyInfoInputs.cache
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.AssemblyInfo.cs
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.csproj.CoreCompileInputs.cache
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.MvcApplicationPartsAssemblyInfo.cache
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.RazorAssemblyInfo.cache
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.RazorAssemblyInfo.cs
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\staticwebassets\181312025_Hakan.ÇELEBİ.StaticWebAssets.Manifest.cache
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\staticwebassets\181312025_Hakan.ÇELEBİ.StaticWebAssets.xml
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\scopedcss\bundle\181312025_Hakan.ÇELEBİ.styles.css
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.TagHelpers.input.cache
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.TagHelpers.output.cache
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.RazorCoreGenerate.cache
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\Razor\Views\Home\CommentPage.cshtml.g.cs
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\Razor\Views\Home\dateNewToOld.cshtml.g.cs
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\Razor\Views\Home\dateOldToNew.cshtml.g.cs
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\Razor\Views\Home\priceHighToLow.cshtml.g.cs
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\Razor\Views\Home\priceLowToHigh.cshtml.g.cs
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.RazorTargetAssemblyInfo.cache
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.RazorTargetAssemblyInfo.cs
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.Views.pdb
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.dll
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.pdb
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.genruntimeconfig.cache
+D:\Yedek\Üniversite Ders Notları\Güz Yarıyılı 5.Dönem Dersler\İnternet Tabanlı Program Geliştirme\Vize Ödevi\181312025_Hakan.ÇELEBİ\obj\Debug\netcoreapp3.1\181312025_Hakan.ÇELEBİ.csproj.CopyComplete

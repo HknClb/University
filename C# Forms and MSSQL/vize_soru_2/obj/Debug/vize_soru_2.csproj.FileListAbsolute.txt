@@ -1,0 +1,10 @@
+C:\Users\Hakan ÇELEBİ7\Source\Repos\vize_soru_2\bin\Debug\vize_soru_2.exe.config
+C:\Users\Hakan ÇELEBİ7\Source\Repos\vize_soru_2\bin\Debug\vize_soru_2.exe
+C:\Users\Hakan ÇELEBİ7\Source\Repos\vize_soru_2\bin\Debug\vize_soru_2.pdb
+C:\Users\Hakan ÇELEBİ7\Source\Repos\vize_soru_2\obj\Debug\vize_soru_2.csprojAssemblyReference.cache
+C:\Users\Hakan ÇELEBİ7\Source\Repos\vize_soru_2\obj\Debug\vize_soru_2.Form1.resources
+C:\Users\Hakan ÇELEBİ7\Source\Repos\vize_soru_2\obj\Debug\vize_soru_2.Properties.Resources.resources
+C:\Users\Hakan ÇELEBİ7\Source\Repos\vize_soru_2\obj\Debug\vize_soru_2.csproj.GenerateResource.cache
+C:\Users\Hakan ÇELEBİ7\Source\Repos\vize_soru_2\obj\Debug\vize_soru_2.csproj.CoreCompileInputs.cache
+C:\Users\Hakan ÇELEBİ7\Source\Repos\vize_soru_2\obj\Debug\vize_soru_2.exe
+C:\Users\Hakan ÇELEBİ7\Source\Repos\vize_soru_2\obj\Debug\vize_soru_2.pdb
